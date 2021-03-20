@@ -9,7 +9,7 @@
 <p align="center">“É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso.”</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucas-eduardo/ignite-challenge2?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucas-eduardo/ignite-react-challenge02?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
